@@ -1,11 +1,11 @@
-# Library-Management-System
+# Library-System
 A code for representing Library Management System and answering certain questions (Questions in README).
 
 This code is written in 30.10.2021, uploaded in 09.04.2021.
 
 Questions:
 
-1-The most issuedbook (amongthe three libraries).
+1-The most issuedbook (among the three libraries).
 
 2-The member who issues the most books(for all three libraries and all years).
 
